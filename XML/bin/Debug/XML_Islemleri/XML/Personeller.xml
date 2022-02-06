@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Personeller>
+  <Personel id="1">
+    <ad>göksel</ad>
+    <soyad>dogan</soyad>
+  </Personel>
+  <Personel id="2">
+    <ad>göksel</ad>
+    <soyad>göksel</soyad>
+  </Personel>
+  <Personel id="3">
+    <ad>de</ad>
+    <soyad>e</soyad>
+  </Personel>
+  <Personel id="4">
+    <ad>Nur</ad>
+    <soyad></soyad>
+  </Personel>
+</Personeller>
